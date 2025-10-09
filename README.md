@@ -48,8 +48,6 @@ cd ai-code-reviewer
 @ Install Dependencies => 
 @ cd frontend => npm init => 
 
-import { useState, useEffect } from 'react';
-
 import Editor from "react-simple-code-editor";
 
 import Prism from "prismjs";
