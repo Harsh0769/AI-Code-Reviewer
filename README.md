@@ -70,7 +70,7 @@ const express = require("express");
 
 const cors = require("cors");
 
-@ Create .env File in your backend and these informations init
+@ Create .env File in your backend and put these informations init
 
 PORT = 5000
 
