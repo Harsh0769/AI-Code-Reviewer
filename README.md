@@ -5,21 +5,21 @@ built to help developers write cleaner, more efficient, and production-ready cod
 It detects issues, recommends improvements, and returns structured feedback to enhance performance, 
 readability, and maintainability.
 
-# Features => 
+Features => 
 🔍 Error Detection – Finds syntax and logical issues
 🌱 Best Practices – Follows industry coding standards
 ⚡ Performance Optimization
 ♻️ Scalability & Maintainability Insights
 🧾 Readable & Structured AI Feedback
 
-# Tech Stack
+Tech Stack =>
 
 Frontend    => React(Vite) , PrismJS , Simple Code Editor
 Backend     => Node.js , Express.js
 AI model    => Google Gemini API
 HTTP Client => Axios
 
-# Output Format
+Output Format =>
 
 📌 Overall Summary
 💪 Strengths in Your Code
@@ -27,13 +27,13 @@ HTTP Client => Axios
 🛠 Suggested Improvements
 💡 Improved Code Examples
 
-# Installation and Steup
+Installation and Steup =>
 
 git clone https://github.com/your-username/ai-code-reviewer.git
 cd ai-code-reviewer
 
-# Install Dependencies => 
-# cd frontend => npm init => 
+ Install Dependencies => 
+cd frontend => npm init => 
 import { useState, useEffect } from 'react';
 import Editor from "react-simple-code-editor";
 import Prism from "prismjs";
@@ -43,7 +43,7 @@ import Markdown from 'react-markdown';
 import rehypeHighlight from "rehype-highlight";
 import "highlight.js/styles/github-dark.css";
 
-# cd backend => npm init => 
+cd backend => npm init => 
 const express = require("express");
 const cors = require("cors");
 
