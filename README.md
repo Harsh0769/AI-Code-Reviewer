@@ -39,7 +39,7 @@ HTTP Client => Axios
 
 💡 Improved Code Examples
 
-@ Installation and Steup =>
+@ Installation and Setup =>
 
 git clone https://github.com/your-username/ai-code-reviewer.git
 
