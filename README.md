@@ -1,51 +1,55 @@
-# AI Code Reviewer
+# 🧠 AI Code Reviewer (Powered by Google Gemini AI)
 
-AI Code Reviewer is an intelligent code analysis tool powered by Google Gemini AI, 
-built to help developers write cleaner, more efficient, and production-ready code. 
-It detects issues, recommends improvements, and returns structured feedback to enhance performance, 
-readability, and maintainability.
+AI Code Reviewer is an intelligent code analysis tool built to help developers write cleaner, optimized, and production-ready code.
 
-@ Features => 
+It analyzes source code using Google Gemini AI, detects issues, suggests improvements, and returns structured feedback to enhance performance, readability, and maintainability.
 
-🔍 Error Detection – Finds syntax and logical issues
+# 🚀 Key Features
 
-🌱 Best Practices – Follows industry coding standards
+🔍 Error Detection – Identifies syntax, logical, and anti-pattern issues
 
-⚡ Performance Optimization
+🌱 Best Practices Compliance – Follows industry coding standards
 
-♻️ Scalability & Maintainability Insights
+⚡ Performance Optimization – Suggests faster and efficient solutions
 
-🧾 Readable & Structured AI Feedback
+♻️ Scalability & Maintainability – Improves long-term code health
 
-@ Tech Stack =>
+🧾 Structured AI Feedback – Clear sections with summary, issues, and fixes
 
-Frontend    => React(Vite) , PrismJS , Simple Code Editor
+#  Tech Stack =>
 
-Backend     => Node.js , Express.js
+| Layer           | Technology                                |
+| --------------- | ----------------------------------------- |
+| **Frontend**    | React (Vite), PrismJS, Simple Code Editor |
+| **Backend**     | Node.js, Express.js                       |
+| **AI Model**    | Google Gemini API                         |
+| **HTTP Client** | Axios                                     |
 
-AI model    => Google Gemini API
 
-HTTP Client => Axios
+# 📤 Output Format (AI Response)
 
-@ Output Format =>
+✅ Overall Summary
 
-📌 Overall Summary
-
-💪 Strengths in Your Code
+💪 Code Strengths
 
 ⚠️ Issues / Bugs Found
 
 🛠 Suggested Improvements
 
-💡 Improved Code Examples
+💡 Refactored / Improved Code Examples
 
-@ Installation and Setup =>
+# Installation and Setup =>
+
+Clone the repository
 
 git clone https://github.com/your-username/ai-code-reviewer.git
 
+Navigate to project
+
 cd ai-code-reviewer
 
-@ Install Dependencies => 
+# Install Dependencies => 
+
 @ cd frontend => npm init => 
 
 import Editor from "react-simple-code-editor";
