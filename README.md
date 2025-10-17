@@ -16,7 +16,7 @@ It analyzes source code using Google Gemini AI, detects issues, suggests improve
 
 🧾 Structured AI Feedback – Clear sections with summary, issues, and fixes
 
-#  Tech Stack =>
+#  Tech Stack
 
 | Layer           | Technology                                |
 | --------------- | ----------------------------------------- |
@@ -38,7 +38,7 @@ It analyzes source code using Google Gemini AI, detects issues, suggests improve
 
 💡 Refactored / Improved Code Examples
 
-# Installation and Setup =>
+# Installation and Setup
 
 Clone the repository
 
@@ -48,7 +48,7 @@ Navigate to project
 
 cd ai-code-reviewer
 
-# Install Dependencies => 
+# Install Dependencies
 
 @ cd frontend => npm init => 
 
